@@ -12,9 +12,9 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-5 gap-12 mb-16">
           <div className="lg:col-span-2">
             <Link href="/" className="flex items-center gap-2 mb-6 inline-block">
-              <img 
-                src="/logo.png" 
-                alt="JG University Logo" 
+              <img
+                src="/logo.png"
+                alt="JG University Logo"
                 className="h-12 w-auto brightness-110"
               />
             </Link>
@@ -72,8 +72,8 @@ export default function Footer() {
         <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row items-center justify-between text-sm text-zinc-500">
           <p>© 2026 JG University. All rights reserved.</p>
           <div className="flex items-center gap-2 mt-4 md:mt-0">
-             <span>Redesigned by</span>
-             <span className="text-electric-purple font-bold">Antigravity</span>
+            <span>Redesigned by</span>
+            <span className="text-electric-purple font-bold">Charan Tej Guniganti</span>
           </div>
         </div>
       </div>
